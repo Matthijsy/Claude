@@ -1,12 +1,18 @@
 {
   "name": "Matthijs",
   "owner": {
-    "name": "Matthijs"
+    "name": "Matthijs",
+    "email": "matthijs@example.com"
   },
   "plugins": [
     {
       "name": "hello-world",
-      "source": "./hello-world"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Matthijsy/Claude",
+        "path": "hello-world"
+      },
+      "version": "1.0.0"
     }
   ]
 }
