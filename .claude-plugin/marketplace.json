@@ -7,6 +7,14 @@
     {
       "name": "hello-world",
       "source": "."
+    },
+    {
+      "name": "skills",
+      "source": {
+        "source": "github",
+        "repo": "mattpocock/skills"
+      },
+      "version": "1.0.0"
     }
   ]
 }
