@@ -1,0 +1,12 @@
+{
+  "name": "Matthijs",
+  "owner": {
+    "name": "Matthijs"
+  },
+  "plugins": [
+    {
+      "name": "hello-world",
+      "source": "."
+    }
+  ]
+}
