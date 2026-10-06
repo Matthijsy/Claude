@@ -8,9 +8,8 @@
     {
       "name": "hello-world",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/Matthijsy/Claude",
-        "path": "hello-world"
+        "source": "git",
+        "url": "https://github.com/Matthijsy/Claude"
       }
     }
   ]
