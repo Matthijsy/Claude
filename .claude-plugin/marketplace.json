@@ -7,7 +7,11 @@
   "plugins": [
     {
       "name": "hello-world",
-      "source": "./hello-world"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Matthijsy/Claude",
+        "path": "hello-world"
+      }
     }
   ]
 }
