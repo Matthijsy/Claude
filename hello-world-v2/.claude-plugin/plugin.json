@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "hello-world",
+  "displayName": "Hello World",
+  "version": "0.1.0",
+  "description": "A minimal example plugin that ships a single HelloWorld skill.",
+  "author": {
+    "name": "Matthijs"
+  },
+  "license": "MIT",
+  "keywords": ["example", "hello-world", "starter"]
+}

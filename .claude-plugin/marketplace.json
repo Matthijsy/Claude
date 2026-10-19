@@ -6,6 +6,10 @@
   },
   "plugins": [
     {
+      "name": "hello-world-v2",
+      "source": "./hello-world-v2"
+    },
+    {
       "name": "hello-world",
       "source": "./hello-world"
     }
