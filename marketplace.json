@@ -1,0 +1,26 @@
+{
+  "name": "litellm",
+  "owner": {
+    "name": "LiteLLM",
+    "email": "support@litellm.ai"
+  },
+  "plugins": [
+    {
+      "name": "claude",
+      "source": {
+        "source": "url",
+        "url": "https://gitlab.local.northwave.nl/matthijs.vos/claude"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "hello-world",
+      "source": {
+        "source": "archive",
+        "url": "https://gitlab.local.northwave.nl/matthijs.vos/claude/-/raw/main/hello-world/hello-world.zip",
+        "sha256": "29490911d1d1bf62320c7fc8dbd09ebe91ef1946d48a0344a8e9627fe381dc44"
+      },
+      "version": "1.0.0"
+    }
+  ]
+}
