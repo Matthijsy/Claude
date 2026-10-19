@@ -18,7 +18,7 @@
       "source": {
         "source": "archive",
         "url": "https://gitlab.local.northwave.nl/matthijs.vos/claude/-/raw/main/hello-world/hello-world.zip",
-        "sha256": "29490911d1d1bf62320c7fc8dbd09ebe91ef1946d48a0344a8e9627fe381dc44"
+        "sha256": "cc85f7584f739e379bef24192364409fdcc179557cc1c4c908e995df673f5c76"
       },
       "version": "1.0.0"
     }
