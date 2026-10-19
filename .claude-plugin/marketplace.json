@@ -7,10 +7,7 @@
   "plugins": [
     {
       "name": "hello-world",
-      "source": {
-        "source": "git",
-        "url": "https://github.com/Matthijsy/Claude"
-      }
+      "source": "./hello-world"
     }
   ]
 }
